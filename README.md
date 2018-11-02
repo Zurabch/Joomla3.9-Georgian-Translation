@@ -1,1 +1,1 @@
-<h2>Joomla3.8-Georgian-Translation</h2>
+<h1>Joomla3.9-Georgian-Translation</h1>
